@@ -3,4 +3,4 @@ This is a repository
 
 
 This repository is for learning. 
-Learning is good.
+Learning is great.
